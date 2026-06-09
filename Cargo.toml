@@ -4,7 +4,7 @@ members = ["contracts/leaderboard"]
 
 [workspace.package]
 version = "0.1.0"
-authors = ["RPS Game"]
+authors = ["my RPS Game"]
 homepage = "https://polkadot.com/"
 license = "GPL-3.0-or-later"
 edition = "2024"
